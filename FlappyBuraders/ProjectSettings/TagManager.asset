@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WarningPosition
+  - PlayerClone
+  - Rage
+  - Invincible
+  - Training
+  - Dead
+  - Wall
+  - Langaw
+  - AnnouncementText
+  - F1Toggles
+  - F2Toggles
+  - P2Text
+  - KillGoalToggles
+  - Killers
+  - Boom
+  - Boom2
+  - SpeedLine
+  - DogePoop
+  - FxTemporaire
+  - PlayerAura
+  - Projectile
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Flappy
+  - Wall
+  - Killer
+  - StatusFX
+  - PowerUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

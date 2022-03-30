@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/FirstLoad.unity
+    guid: cfdef663ee1544a93a4fa6f87da632ae
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: d529f2aea62da4263aacea8cb0bb847d
+  - enabled: 1
+    path: Assets/_Scenes/BuraderSelect.unity
+    guid: e03b13a61b7dd466389e6695044c394f
+  - enabled: 1
+    path: Assets/_Scenes/StageNumber.unity
+    guid: 4f8c45aa2aa54409c91ea21dc63a2d37
+  - enabled: 1
+    path: Assets/_Scenes/Battle.unity
+    guid: 319b8a4556e624ec4aad81e1fa3d4825
+  - enabled: 1
+    path: Assets/_Scenes/BattleResult.unity
+    guid: 9be56edbe584e4ffcbf7219cc8643fe4
+  - enabled: 1
+    path: Assets/_Scenes/Secret.unity
+    guid: c8b95337f82e84162bedb3ed83ad70e9
+  - enabled: 1
+    path: Assets/_Scenes/Profiles.unity
+    guid: 5ef779f208a6a4a49adebaecc4ad9feb
+  - enabled: 1
+    path: Assets/_Scenes/Ending.unity
+    guid: a3c4c16cf222a45f5a331412eb19fcfd
+  - enabled: 1
+    path: Assets/_Scenes/Credits.unity
+    guid: 8c6b1b39f57bb4322ae4e5f74bcb4ba1
+  - enabled: 1
+    path: Assets/_Scenes/Tips.unity
+    guid: 0b7c7de7a19a7427899b55c7c9b10ec9
+  - enabled: 1
+    path: Assets/_Scenes/Settings.unity
+    guid: 31d1c5205b48542fb99000ed1c71a4b7
+  - enabled: 1
+    path: Assets/_Scenes/Tutorial.unity
+    guid: 67659412d90b240c7a7ebd8c757956fc
+  - enabled: 1
+    path: Assets/_Scenes/BattleOnline.unity
+    guid: bf9cbdd752b0f4530ac43577a51873db
+  m_configObjects: {}
